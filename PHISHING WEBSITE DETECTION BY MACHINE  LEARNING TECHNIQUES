@@ -1,0 +1,23 @@
+With the escalating threat of phishing attacks targeting unsuspecting online 
+users, this project endeavors to fortify cybersecurity defenses through the 
+application of machine learning models and deep neural networks. The primary 
+objective is to predict and preemptively identify phishing websites by 
+extracting pertinent features from a diverse dataset encompassing both 
+legitimate and phishing URLs. Sourced from reputable repositories such as the 
+University of New Brunswick and PhishTank, the dataset undergoes meticulous 
+preprocessing, and a strategic selection of features is performed. Address Bar, 
+Domain, and HTML & Javascript-based features are chosen for their inherent 
+relevance to phishing attributes.
+The supervised machine learning models employed in this study include 
+Decision Tree, Random Forest, Multilayer Perceptrons, XGBoost, and an 
+Autoencoder Neural Network. These models are trained on the feature-rich 
+dataset, and their performance is rigorously evaluated, with a focus on 
+accuracy as the primary metric. Through this evaluation, a comparative analysis 
+of the models' effectiveness is conducted, culminating in the identification of 
+XGBoost as the standout performer.
+This project not only addresses the pressing need for advanced phishing 
+detection mechanisms but also contributes valuable insights into the optimal 
+utilization of machine learning techniques in bolstering online security. The 
+findings underscore the significance of proactive cybersecurity measures and 
+the role of machine learning in mitigating the evolving landscape of cyber 
+threats
